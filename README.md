@@ -1,4 +1,3 @@
 <div>
-  <h3 align="center">Hello Java<img  align="center" alt="Java" height="30" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  </h3>
+  <h3 align="center">Hello Intellij<img  align="center" alt="Java" height="40" width="80" <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" /> </h3>
 </div>
